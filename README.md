@@ -15,12 +15,12 @@ Hello! I'm **Mink**, a **Computer Science student** passionate about **software 
 
 ## 🚀 Featured Projects  
 
-### **📌 Software Engineering Projects**  
+### **Software Engineering Projects**  
 - **Strawberry Variety Classification Mobile Application** – Developed an AI-powered mobile app using **Flutter & TensorFlow Lite** to classify strawberry varieties.  
 - **Home Decor Store POS System** – Designed a **Spring Boot & MySQL-based** inventory and sales management system with authentication and role-based access control.  
 - **Baking Recipe Hub Website** – Built a **PHP & MySQL** web platform for managing and sharing baking recipes with user interaction features.  
 
-### **📊 Data Engineering & Analytics Projects**  
+### **Data Engineering & Analytics Projects**  
 - **Analysis of Nutritional Efficiency of Food** – Processed **22,000+ food records** using **SQLite, Python, and API integrations** to generate nutrition-based insights.  
 - **Studying Crime Risk Variation Using LAPD Data** – Conducted **geospatial analysis** using **Folium, GeoPandas, and Seaborn** to visualize crime hotspots in Los Angeles.  
 - **Stock Market Investment Strategy Analysis** – Developed a **financial data analytics tool** using **Yahoo Finance API, Pandas, and Matplotlib** to evaluate trading strategies.  
@@ -29,14 +29,14 @@ Hello! I'm **Mink**, a **Computer Science student** passionate about **software 
 
 ## 🛠️ Technical Skills  
 
-✅ **Programming Languages:** Python, SQL, Java, JavaScript, C  
-✅ **Mobile & Web Development:** Flutter, HTML, CSS, JavaScript, PHP  
-✅ **Data Engineering & ETL:** Apache Airflow, Apache Spark, Pandas, NumPy  
-✅ **Databases:** MySQL, SQLite  
-✅ **Data Analysis & Visualization:** Matplotlib, Seaborn, Folium, Jupyter Notebook  
-✅ **Big Data & Cloud Technologies:** AWS, Hadoop  
-✅ **Backend & API Development:** RESTful APIs, Flask, FastAPI  
-✅ **Version Control & Tools:** Git, GitHub, Docker, Kubernetes  
+- **Programming Languages:** Python, SQL, Java, JavaScript, C  
+- **Mobile & Web Development:** Flutter, HTML, CSS, JavaScript, PHP  
+- **Data Engineering & ETL:** Apache Airflow, Apache Spark, Pandas, NumPy  
+- **Databases:** MySQL, SQLite  
+- **Data Analysis & Visualization:** Matplotlib, Seaborn, Folium, Jupyter Notebook  
+- **Big Data & Cloud Technologies:** AWS, Hadoop  
+- **Backend & API Development:** RESTful APIs, Flask, FastAPI  
+- **Version Control & Tools:** Git, GitHub, Docker, Kubernetes  
 
 ---
 
@@ -44,6 +44,7 @@ Hello! I'm **Mink**, a **Computer Science student** passionate about **software 
 
 📧 **Email:** tidapornterm2018@gmail.com  
 🌐 **LinkedIn:** www.linkedin.com/in/tidaporn-teamsuk-73a5321a1
+
 📌 **GitHub:** [TidapornTeamsuk](https://github.com/TidapornTeamsuk)  
 
 💬 **Feel free to reach out! I'm always excited to collaborate on new projects and explore innovative ideas.** 😊  
