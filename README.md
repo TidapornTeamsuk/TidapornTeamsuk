@@ -44,7 +44,6 @@ Hello! I'm **Mink**, a **Computer Science student** passionate about **software 
 
 📧 **Email:** tidapornterm2018@gmail.com  
 🌐 **LinkedIn:** www.linkedin.com/in/tidaporn-teamsuk-73a5321a1
-
 📌 **GitHub:** [TidapornTeamsuk](https://github.com/TidapornTeamsuk)  
 
 💬 **Feel free to reach out! I'm always excited to collaborate on new projects and explore innovative ideas.** 😊  
