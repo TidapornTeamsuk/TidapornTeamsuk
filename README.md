@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mink (Tidaporn Teamsuk)!  
 
 ## 🌟 About Me  
-Hello! I'm **Mink**, a **Computer Science student** passionate about **software engineering, data engineering, and analytics**. I enjoy developing **scalable applications, optimizing data workflows, and uncovering insights from complex datasets**. My work spans from **mobile and web development** to **data processing, visualization, and predictive modeling**.  
+Hi there! I'm **Mink**, a **Computer Science student** passionate about **software engineering, data engineering, and analytics**. I enjoy developing **scalable applications, optimizing data workflows, and uncovering insights from complex datasets**. My work spans from **mobile and web development** to **data processing, visualization, and predictive modeling**.  
 
 ---
 
